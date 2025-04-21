@@ -1,4 +1,4 @@
-# c-programming-assignment
+# C Programming Assignment
 
 ## 1. Introduction
 
